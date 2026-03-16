@@ -1,1 +1,0 @@
-# Lab-1_Digital-image-processing
